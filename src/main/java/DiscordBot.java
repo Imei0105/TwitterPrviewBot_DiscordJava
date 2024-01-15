@@ -8,7 +8,7 @@ import javax.security.auth.login.LoginException;
 public class DiscordBot {
     public static void main(String[] args) throws LoginException {
 
-        final String TOKEN = "MTE5MjAxMzAxNTM0ODk1MzEyOQ.GWLNjd.FhLLaFGhOHyFW4EEsygDfIvGoQgZyidBm0K4wU";
+        final String TOKEN = "";
         JDABuilder jdaBuilder = JDABuilder.createDefault(TOKEN);
 
 
